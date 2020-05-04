@@ -1,0 +1,131 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+#logo{
+    width: 100px;
+    height: 100px;
+    margin-top: 5px;
+}
+
+#paragraph{
+    font-size: 230%;     
+    color: #999999;
+    font-family: Arial;
+}
+
+#paragraph2{
+    font-size: 120%;
+    color: #999999;
+    font-family: Arial;
+    margin-top: 25px;
+}
+
+.signin-block{
+    margin-left: auto;
+    margin-right: auto;
+    height: 230px;
+    width: 320px;
+    margin-top: 20px;
+    padding: 40px 0px 25px 0px;
+    background-color: #f7f7f7;
+    box-shadow: 0px 2px 2px #bfbfbf;
+}
+
+#profile{
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95px;
+    margin-top: 5px;
+}
+
+#mail{
+    color: #ff0000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 30px;
+    width: 240px;
+    border-radius: 4px;
+    background: #ffffb3;
+}
+
+#button{
+    color: white;
+    background-color: #4d4dff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 40px;
+    width: 250px;
+    border-radius: 4px;
+}
+
+.help{
+    position: relative;
+    left: 220px;
+    top: -8px;
+    font-family: Arial;
+    font-size: small;
+    color: #4d4dff;
+}
+
+#create{
+    font-family: Arial;
+    font-size: normal;
+    color: #4d4dff;
+
+}
+
+.logos{
+    width: 20px;
+    height: 20px;
+}
+
+#gmail{
+    width: 30px;
+    height: 20px;
+    margin-right: 5px;
+}
+#maps{
+    width: 20px;
+    height: 20px;
+}
+
+#yt{
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+}
+
+#drive{
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+}
+
+#play{
+    width: 35px;
+    height: 20px;
+    margin-right: -5px;
+}
+
+
+
+#footer{
+    color: #666666;
+    position: absolute;
+    bottom: 6px;
+    left: 12px;
+    font-size: 15px;
+}
+
+.razmak{
+    margin-left: 20px;
+}
